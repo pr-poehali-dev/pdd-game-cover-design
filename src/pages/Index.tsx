@@ -37,7 +37,7 @@ const Index = () => {
         <header className="text-center mb-12 animate-fade-in">
           <div className="relative mb-6">
             <img 
-              src="https://cdn.poehali.dev/projects/647a3cc3-239a-4918-9be3-8fb4129e7e97/files/6ffbde4a-cb13-4424-baf7-a41804370cf7.jpg" 
+              src="https://cdn.poehali.dev/projects/647a3cc3-239a-4918-9be3-8fb4129e7e97/files/360b9c3f-b5d8-4014-842e-0ff721bb4caf.jpg" 
               alt="Тайны ПДД" 
               className="w-full max-w-2xl mx-auto rounded-3xl shadow-2xl hover:scale-105 transition-transform duration-300"
             />
